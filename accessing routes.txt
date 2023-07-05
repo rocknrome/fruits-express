@@ -1,0 +1,10 @@
+http://localhost:3001/hello
+http://localhost:3001/greet/John
+http://localhost:3001/veggies/
+http://localhost:3001/fruits
+http://localhost:3001/veggies/carrot
+http://localhost:3001/fruits/banana
+http://localhost:3001/five
+http://localhost:3001/fruits/sort
+http://localhost:3001/veggies/sort
+
